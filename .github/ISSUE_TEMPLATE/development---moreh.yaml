@@ -4,12 +4,21 @@ title: "[Request or Bug] ..."
 labels: ["moreh"]
 projects: ["dongjin-na/2"]
 assignees: []  # Assignees should be an array or string, an empty array is acceptable
-body: 
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please choose one of the following options and fill out the details accordingly:
+        - Propose a feature
+        - Report a bug
+
   - type: textarea
     attributes:
       label: Contents
+      description: "Propose a feature or Report a bug. Please delete the section you are not using."
       value: |
-        *Propose a feature*
+        ### Propose a feature
         **Is your feature request related to a problem? Please describe.**
         A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
@@ -22,7 +31,7 @@ body:
         **Additional context**
         Add any other context or screenshots about the feature request here.
 
-        *Report a bug*
+        ### Report a bug
         **Describe the bug**
         A clear and concise description of what the bug is.
 
@@ -45,6 +54,3 @@ body:
 
         **Additional context**
         Add any other context about the problem here.
-
-      
-
