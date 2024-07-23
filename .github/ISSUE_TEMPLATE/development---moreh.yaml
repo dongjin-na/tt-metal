@@ -9,26 +9,42 @@ body:
     attributes:
       label: Contents
       value: |
-        **Problem Description:**
+        *Propose a feature*
+        **Is your feature request related to a problem? Please describe.**
+        A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-        **Desired Solution:**
+        **Describe the solution you'd like**
+        A clear and concise description of what you want to happen.
 
-        **Alternatives Considered:**
+        **Describe alternatives you've considered**
+        A clear and concise description of any alternative solutions or features you've considered.
 
-        **Feature Additional Context:**
+        **Additional context**
+        Add any other context or screenshots about the feature request here.
 
-        **Bug Description:**
+        *Report a bug*
+        **Describe the bug**
+        A clear and concise description of what the bug is.
 
-        **Steps to Reproduce:**
+        **To Reproduce**
+        Steps to reproduce the behavior:
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
 
-        **Expected Behavior:**
+        **Expected behavior**
+        A clear and concise description of what you expected to happen.
 
-        **Screenshots:**
+        **Screenshots**
+        If applicable, add screenshots to help explain your problem.
 
-        **Environment Information:**
+        **Please complete the following environment information:**
         - OS: [e.g. Ubuntu 20.04]
         - Version of software (eg. commit)
 
-        **Additional Bug Context:**
+        **Additional context**
+        Add any other context about the problem here.
 
+      
 
