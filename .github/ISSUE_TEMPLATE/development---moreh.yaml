@@ -1,9 +1,9 @@
-name: For Moreh users - Propose a feature
-about: Suggest an idea / change for this project (Please make a blank issue below if you're a developer!)
+name: For Moreh users
+description: Suggest an idea or change for this project
 title: "[moreh] ..."
-labels: moreh
-projects: dongjin-na/2
-assignees: ''
+labels: ["moreh"]
+projects: ["dongjin-na/2"]
+assignees: []  # Assignees should be an array or string, an empty array is acceptable
 
 body:
   - type: markdown
