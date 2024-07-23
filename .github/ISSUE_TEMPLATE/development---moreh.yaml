@@ -4,43 +4,70 @@ title: "[Request or Bug] ..."
 labels: ["moreh"]
 projects: ["dongjin-na/2"]
 assignees: []  # Assignees should be an array or string, an empty array is acceptable
-
 body:
+  - type: markdown
+    attributes:
+      value: |
+        **Is your feature request related to a problem? Please describe.**
+        A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+        **Describe the solution you'd like**
+        A clear and concise description of what you want to happen.
+
+        **Describe alternatives you've considered**
+        A clear and concise description of any alternative solutions or features you've considered.
+
+        **Additional context**
+        Add any other context or screenshots about the feature request here.
+
+        **Describe the bug**
+        A clear and concise description of what the bug is.
+
+        **To Reproduce**
+        Steps to reproduce the behavior:
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+
+        **Expected behavior**
+        A clear and concise description of what you expected to happen.
+
+        **Screenshots**
+        If applicable, add screenshots to help explain your problem.
+
+        **Please complete the following environment information:**
+        - OS: [e.g. Ubuntu 20.04]
+        - Version of software (eg. commit)
+
+        **Additional context**
+        Add any other context about the problem here.
+
   - type: textarea
     attributes:
-      label: Request a feature
-      description: **Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+      label: Details
+      description: Provide detailed information here.
+      value: |
+        **Problem Description:**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+        **Desired Solution:**
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+        **Alternatives Considered:**
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+        **Feature Additional Context:**
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+        **Bug Description:**
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+        **Steps to Reproduce:**
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+        **Expected Behavior:**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+        **Screenshots:**
 
-**Please complete the following environment information:**
-- OS: [e.g. Ubuntu 20.04]
-- Version of software (eg. commit)
+        **Environment Information:**
+        - OS: [e.g. Ubuntu 20.04]
+        - Version of software (eg. commit)
 
-**Additional context**
-Add any other context about the problem here.
+        **Additional Bug Context:**
+
 
