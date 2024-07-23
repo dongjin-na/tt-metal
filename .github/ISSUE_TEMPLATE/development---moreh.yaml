@@ -1,6 +1,6 @@
 name: For Moreh users
 description: Suggest an idea, change for this project, or report a bug
-title: []
+title: ""
 labels: ["moreh"]
 projects: ["dongjin-na/2"]
 assignees: []  # Assignees should be an array or string, an empty array is acceptable
@@ -20,7 +20,11 @@ body:
 
         **Additional context**
         Add any other context or screenshots about the feature request here.
-
+  - type: textarea
+    attributes:
+      label: Bug Description
+      description: A clear and concise description of what the bug is.
+      
   - type: markdown
     attributes:
       value: |
@@ -46,3 +50,7 @@ body:
 
         **Additional context**
         Add any other context about the problem here.
+  - type: textarea
+    attributes:
+      label: Bug Description
+      description: A clear and concise description of what the bug is.
