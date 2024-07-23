@@ -7,8 +7,7 @@ assignees: []  # Assignees should be an array or string, an empty array is accep
 body: 
   - type: textarea
     attributes:
-      label: Details
-      description: Provide detailed information here.
+      label: Contents
       value: |
         **Problem Description:**
 
