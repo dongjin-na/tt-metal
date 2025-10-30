@@ -50,9 +50,9 @@ Comprehensive English investigation report covering Tracy and Device Profiler is
 
 ## Related Documentation
 
-- [Device Program Profiler](./docs/source/tt-metalium/tools/device_program_profiler.rst)
-- [Tracy Profiler](./docs/source/tt-metalium/tools/tracy_profiler.rst)
-- [Profiler Tests](./tests/tt_metal/tools/profiler/)
+- [Device Program Profiler](docs/source/tt-metalium/tools/device_program_profiler.rst)
+- [Tracy Profiler](docs/source/tt-metalium/tools/tracy_profiler.rst)
+- [Profiler Tests](tests/tt_metal/tools/profiler/)
 
 ## For Developers
 
